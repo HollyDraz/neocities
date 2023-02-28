@@ -6,17 +6,7 @@ This /public/ directory is where your site stuff goes!
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-h1 {text-align: center;}
-p {text-align:center;}
-div {text-align: center;}
-</style>
 </head>
 <body>
 
