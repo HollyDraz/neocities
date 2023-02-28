@@ -139,7 +139,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>Ready Up</h1>
+  <h1>Associations</h1>
   <p>Currenlty under construction! Stay tuned for more updates :) .</p>
 </div>
 
