@@ -4,7 +4,8 @@ This /public/ directory is where your site stuff goes!
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<link rel="stylesheet" href="mystyle.css">
+<title>Band Name</title>
 </head>
 <body>
 
