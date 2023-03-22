@@ -17,22 +17,16 @@ p{
     text-align: center;
 }
 
-
+/* styling for image slider */
 .slider {
     position: relative;
     width: 500px;
     height: 265px;
-  
     overflow: hidden;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
   }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+
 
 /* Place the navbar at the bottom of the page, and make it stick */
 .footer {
