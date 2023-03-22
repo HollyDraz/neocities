@@ -39,8 +39,12 @@ p{
   .slider ul li {
     position: relative;
     height: 100%;
-  
     float: left;
+  }
+
+  .slider ul li img{
+    width: 500px;
+    height: 265px;
   }
   
 
