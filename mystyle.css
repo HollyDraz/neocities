@@ -18,15 +18,16 @@ p{
 }
 
 /* styling for image slider */
-.slider {
+#slider {
     position: relative;
     width: 500px;
     height: 265px;
     overflow: hidden;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    border: 15px solid green;
   }
 
-  .slider ul {
+  #slider ul {
     position: relative;
     list-style: none;
     height: 100%;
@@ -36,7 +37,7 @@ p{
     transition: all 750ms ease;
     left: 0;
   }
-  .slider ul li {
+  #slider ul li {
     position: relative;
     height: 100%;
     float: left;
