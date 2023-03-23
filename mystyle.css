@@ -47,9 +47,21 @@ p{
     width: 500px;
     height: 265px;
   }
-  
-
-
+  /* add the buttons */
+  #slider #prev, #slider #next {
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 50%;
+    border-radius: 50%;
+    font-size: 2rem;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    transform: translateY(-50%);
+    transition: all 150ms ease;
+  }
 
 /* Place the navbar at the bottom of the page, and make it stick */
 .footer {
