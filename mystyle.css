@@ -37,6 +37,8 @@ p{
     transition: all 750ms ease;
     left: 0;
   }
+
+  /* for the images */
   #slider ul li {
     position: relative;
     height: 100%;
