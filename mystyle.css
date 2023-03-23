@@ -24,7 +24,7 @@ p{
     height: 265px;
     overflow: hidden;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
-    border: 15px solid green;
+    /* border: 15px solid green; */
   }
 
   #slider ul {
@@ -61,6 +61,18 @@ p{
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
     transform: translateY(-50%);
     transition: all 150ms ease;
+  }
+
+  #slider #prev {
+    left: 10px;
+  }
+  #slider #next {
+    right: 10px;
+  }
+  
+  #slider #prev:hover, #slider #next:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 0;
   }
 
 /* Place the navbar at the bottom of the page, and make it stick */
