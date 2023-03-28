@@ -73,7 +73,7 @@ p{
   }
   
   #slider #prev:hover, #slider #next:hover {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(230, 100, 100, 0.5);
     text-shadow: 0;
   }
 
