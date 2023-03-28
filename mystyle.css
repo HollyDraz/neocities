@@ -17,68 +17,9 @@ p{
     text-align: center;
 }
 
-/* styling for image slider */
-/* #slider {
-    position: center;
-    width: 500px;
-    height: 265px;
-    overflow: hidden;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
-    /* border: 15px solid green; */
-  /* }
-
-  #slider ul {
-    position: center;
-    list-style: none;
-    height: 100%;
-    width: 10000%;
-    padding: 0;
-    margin: 0;
-    transition: all 750ms ease;
-    left: 0;
-  } */
-
-  /* for the images
-  #slider ul li {
-    position: relative;
-    height: 100%;
-    float: left;
-  }
-
-  .slider ul li img{
-    width: 500px;
-    height: 265px;
-  } */
-  /* add the buttons */
-  /* #slider #prev, #slider #next {
-    width: 50px;
-    line-height: 50px;
-    text-align: center;
-    color: white;
-    text-decoration: none;
-    top: 50%;
-    border-radius: 50%;
-    font-size: 2rem;
-    text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
-    transform: translateY(-50%);
-    transition: all 150ms ease;
-  } */
-/* 
-  #slider #prev {
-    left: 10px;
-  }
-  #slider #next {
-    right: 10px;
-  } */
-  
-  /* #slider #prev:hover, #slider #next:hover {
-    background-color: rgba(230, 100, 100, 0.5);
-    text-shadow: 0;
-  } */ */
-
 /* Place the navbar at the bottom of the page, and make it stick */
 .footer {
-    background-color: #333;
+    background-color: #3b0f0f46;
     overflow: hidden;
     position: fixed;
     bottom: 0;
@@ -98,5 +39,5 @@ p{
 
   .footer a:hover {
     background-color: #ddd;
-    color: black;
+    color: rgb(17, 2, 2);
   }
