@@ -7,14 +7,17 @@ h1{
     text-align: center;
     color: azure;
     background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 h2{
     text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 p{
     text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 .center {
