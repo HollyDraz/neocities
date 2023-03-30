@@ -20,9 +20,16 @@ p{
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 
+
+/* spotfiy music player */
+.spotify{
+  box-shadow: 0px 0px 7px #fff;
+
+}
+
 /* styling for merch shirts */
 .merch{
-  box-shadow: 0px 0px 6px #fff;
+  box-shadow: 0px 0px 7px #fff;
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
@@ -81,11 +88,10 @@ p{
 /* end of image overlay edits */
 
 
-/* Place the navbar at the bottom of the page, and make it stick */
+/* Place the navbar at the bottom of the page*/
 .footer {
     background-color: #3b0f0f46;
     overflow: hidden;
-    position: fixed;
     bottom: 0;
     width: 100%;
   }
