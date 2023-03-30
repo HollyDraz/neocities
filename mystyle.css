@@ -24,24 +24,23 @@ p{
 .image {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  border-radius: 100%;
   display: block;
-  width: 100%;
-  height: auto;
+  width: 50%;
+  height: 700px;
 }
 
 /* over lay on image  */
 .overlay {
-  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 700px;
+  width: 50%;
   opacity: 0;
-  transition: .5s ease;
+  transition: .2s ease;
   background-color: #008CBA;
 }
 
@@ -57,7 +56,7 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
+/* end of image overaly edits */
 
 
 /* Place the navbar at the bottom of the page, and make it stick */
